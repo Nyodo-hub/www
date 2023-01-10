@@ -1,0 +1,192 @@
+body
+{
+    background-color: dimgrey;
+    color: aliceblue;
+    font-family: 'Lato', sans-serif;
+    font-size: medium;
+}
+#container
+{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.rectangle
+{
+    width: 960px;
+    margin: 20px;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.square
+{
+    width: 50%;
+    float: left;
+}
+#logo
+{
+    float: left;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 50px;
+    width: 600px;
+    text-align: left;
+}
+#zegar
+{
+    float: left;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 70px;
+    text-align: left;
+}
+.title1
+{
+    margin: 10px;
+    width: 230px;
+    height: 142px;
+    background-color: rgb(14, 56, 148);
+    float: left;
+    text-align: center;
+}
+.title1:hover
+{
+    background-color: darkblue;
+}
+.title2
+{
+    margin: 10px;
+    width: 230px;
+    height: 142px;
+    background-color: darkgray;
+    float: left;
+    text-align: center;
+}
+.title2:hover
+{
+    background-color: gray;
+}
+.title3
+{
+    margin: 10px;
+    width: 230px;
+    height: 142px;
+    background-color: rgb(12, 165, 63);
+    float: left;
+    text-align: center;
+}
+.title3:hover
+{
+    background-color: green ;
+}
+.title4
+{
+    margin: 10px;
+    width: 420px;
+    height: 82px;
+    background-color: orangered;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    padding: 30px;
+    font-size: 26px;
+}
+.title5
+{
+    margin: 10px;
+    width: 470px;
+    height: 284px;
+    background-color: rgb(99, 117, 110);
+    text-align: justify;
+    padding: 10px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 19px;
+}
+.yt
+{
+    background-color: red;
+    height: 142px;
+    margin: 14px;
+    width: 100px;
+    float: left;
+}
+.yt:hover
+{
+    background-color: darkred;
+}
+.tw
+{
+    background-color: lightskyblue;
+    height: 142px;
+    margin: 14px;
+    width: 100px;
+    float: left;
+}
+.tw:hover
+{
+    background-color: darkturquoise;
+}
+.g
+{
+    background-color: rgb(190, 97, 9);
+    height: 142px;
+    margin: 14px;
+    width: 100px;
+    float: left;
+}
+.g:hover
+{
+    background-color: orangered;
+}
+.fb
+{
+    background-color: blue;
+    height: 142px;
+    margin: 14px;
+    width: 100px;
+    float: left;
+}
+.fb:hover
+{
+    background-color: darkblue;
+}
+a.titlelink
+{
+    color: white;
+    text-decoration: none;
+    display: block;
+    width: 230px;
+    height: 142px;
+}
+a.titlelink2
+{
+    color: white;
+    text-decoration: none; 
+}
+a.titlelink3
+{
+    color: white;
+    text-decoration: none; 
+}
+a.titlelink4
+{
+    color: white;
+    text-decoration: none; 
+}
+a.sociallink
+{
+    color: white;
+    text-decoration: none; 
+}
+a.sociallink2
+{
+    color: white;
+    text-decoration: none; 
+}
+a.sociallink3
+{
+    color: white;
+    text-decoration: none; 
+}
+a.sociallink4
+{
+    color: white;
+    text-decoration: none; 
+}
